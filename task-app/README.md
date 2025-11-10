@@ -1,6 +1,7 @@
 # TaskApp
 
-TaskApp is a lightweight task management dashboard built with React and Tailwind CSS. It provides a simple UI to add, toggle, and delete tasks, view task statistics, and explore public API data. The project includes dark/light theme support (class-based Tailwind dark mode) and persists tasks to localStorage.
+TaskApp is a lightweight task management dashboard built with React and Tailwind CSS. It provides a simple UI to add, toggle, and delete tasks, view task statistics, and explore public API data. The project includes dark/light theme support (class-based Tailwind dark mode) and persists tasks to localStorage. 
+vercel link - https://task-dashboard-teal-omega.vercel.app/
 
 ![TaskApp Dashboard](./docs/screenshot.png)
 
